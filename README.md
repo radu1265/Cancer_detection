@@ -1,5 +1,3 @@
-# Brain cancer detection
-
 # Brain Tumor Detection using Deep Learning
 
 This project explores two deep learning approaches for classifying brain MRI scans as cancerous or healthy. It compares a classic **LeNet** model trained from scratch with a **fine-tuned ResNet-50** pretrained on ImageNet. The main focus is on data preprocessing, augmentation, and visualization to improve performance on a limited dataset.
